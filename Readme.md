@@ -1,7 +1,9 @@
-# Calculator Project Advent of Code
+# Calculator Project Advent Of Code
 
 ## Overview
 This project is a simple web-based calculator designed to perform basic arithmetic operations. The calculator allows users to add, subtract, multiply, and divide numbers, as well as clear the display and delete the last entered digit. The project includes HTML, CSS, and JavaScript files to create the user interface and implement the calculator's functionality.
+
+![Calculator Demo](./Assets/calc.gif)
 
 ## Features
 - Addition, subtraction, multiplication, and division operations.
@@ -42,4 +44,4 @@ Possible future enhancements to consider:
 
 Feel free to fork and modify the code to suit your needs or contribute to the project's development. If you encounter any issues or have suggestions, please open an issue in the repository.
 
-Enjoy calculating!
+Check out the code on CodePen: [Calculator CodePen](https://codepen.io/kylerobins/pen/gOqqvVp)  
